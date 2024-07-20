@@ -1,0 +1,6 @@
+SEng-3231 Microprocessors and Assemly Language
+SEng-4031 Advanced Database Systems
+SEng-5131 Requirements Engineering 
+SEng-5331 Software Engineering Tools and Practices
+SEng-7131 web Designand Programming
+SEng-7431 Fundamentals of software Security
