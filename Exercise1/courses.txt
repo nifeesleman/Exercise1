@@ -1,0 +1,6 @@
+SEng-5232 Software Architecter and Design
+SEng-6132 Advanced programming 
+SEng-7232 Fundamentals of cloud computing & IoT
+SEng-7332 Fundamentals of machine Learning 
+SEng-9032 Fundamentals of Destributed Systems
+SEng-Software Project Management
